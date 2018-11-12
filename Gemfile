@@ -8,6 +8,8 @@ gem 'rails', '~> 5.2.1'
 
 #Authentication
 gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
